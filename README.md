@@ -1,3 +1,3 @@
-"Hello! 
+"Hello! 👋
 
-👋 I'm Zubair 😊"
+I'm Zubair 😊"
